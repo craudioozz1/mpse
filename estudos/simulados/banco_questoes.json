@@ -1,0 +1,302 @@
+[
+  {
+    "id": "Q001",
+    "area": "programacao",
+    "enunciado": "Qual dos princípios SOLID estabelece que uma classe deve ter apenas uma razão para mudar?",
+    "alternativas": [
+      "a) Open/Closed Principle",
+      "b) Single Responsibility Principle",
+      "c) Liskov Substitution Principle",
+      "d) Interface Segregation Principle",
+      "e) Dependency Inversion Principle"
+    ],
+    "gabarito": "b",
+    "dificuldade": "facil",
+    "tags": ["SOLID", "POO", "design", "SRP"]
+  },
+  {
+    "id": "Q002",
+    "area": "arquitetura",
+    "enunciado": "O padrão de projeto Singleton tem como objetivo:",
+    "alternativas": [
+      "a) Permitir a criação de famílias de objetos relacionados",
+      "b) Garantir que uma classe tenha apenas uma instância",
+      "c) Separar a abstração da implementação",
+      "d) Adicionar responsabilidades a objetos dinamicamente",
+      "e) Fornecer uma interface para criar objetos"
+    ],
+    "gabarito": "b",
+    "dificuldade": "facil",
+    "tags": ["design_patterns", "criacional", "singleton"]
+  },
+  {
+    "id": "Q003",
+    "area": "banco_dados",
+    "enunciado": "Em normalização de banco de dados, a Segunda Forma Normal (2FN) estabelece que:",
+    "alternativas": [
+      "a) Não devem existir atributos multivalorados",
+      "b) Todos os atributos não-chave devem depender da chave primária completa",
+      "c) Não devem existir dependências transitivas",
+      "d) Toda chave candidata deve ser única",
+      "e) Não devem existir valores nulos"
+    ],
+    "gabarito": "b",
+    "dificuldade": "media",
+    "tags": ["normalizacao", "modelagem", "2FN"]
+  },
+  {
+    "id": "Q004",
+    "area": "programacao",
+    "enunciado": "Em programação orientada a objetos, o conceito de polimorfismo permite:",
+    "alternativas": [
+      "a) Ocultar os detalhes de implementação de uma classe",
+      "b) Criar múltiplas instâncias de uma mesma classe",
+      "c) Tratar objetos de classes diferentes de forma uniforme através de uma interface comum",
+      "d) Herdar características de múltiplas classes simultaneamente",
+      "e) Modificar o comportamento de uma classe em tempo de compilação"
+    ],
+    "gabarito": "c",
+    "dificuldade": "media",
+    "tags": ["POO", "polimorfismo", "conceitos"]
+  },
+  {
+    "id": "Q005",
+    "area": "devops",
+    "enunciado": "No GitFlow, a branch 'develop' é utilizada para:",
+    "alternativas": [
+      "a) Armazenar o código em produção",
+      "b) Corrigir bugs críticos em produção",
+      "c) Integrar features antes de irem para produção",
+      "d) Criar releases hotfixes",
+      "e) Testar código em ambiente de staging"
+    ],
+    "gabarito": "c",
+    "dificuldade": "facil",
+    "tags": ["git", "gitflow", "versionamento"]
+  },
+  {
+    "id": "Q006",
+    "area": "seguranca",
+    "enunciado": "De acordo com a LGPD (Lei Geral de Proteção de Dados), o titular dos dados possui o direito de:",
+    "alternativas": [
+      "a) Apenas visualizar seus dados pessoais",
+      "b) Solicitar a portabilidade de seus dados para outro fornecedor",
+      "c) Manter seus dados armazenados indefinidamente",
+      "d) Compartilhar seus dados sem consentimento",
+      "e) Impedir qualquer tipo de tratamento de seus dados"
+    ],
+    "gabarito": "b",
+    "dificuldade": "media",
+    "tags": ["LGPD", "protecao_dados", "direitos"]
+  },
+  {
+    "id": "Q007",
+    "area": "arquitetura",
+    "enunciado": "O padrão arquitetural de Microsserviços se caracteriza por:",
+    "alternativas": [
+      "a) Aplicação monolítica dividida em camadas",
+      "b) Serviços pequenos, independentes e fracamente acoplados",
+      "c) Arquitetura cliente-servidor tradicional",
+      "d) Sistema centralizado com banco de dados único",
+      "e) Aplicação em três camadas (apresentação, negócio, dados)"
+    ],
+    "gabarito": "b",
+    "dificuldade": "facil",
+    "tags": ["microsservicos", "arquitetura", "patterns"]
+  },
+  {
+    "id": "Q008",
+    "area": "banco_dados",
+    "enunciado": "A cláusula SQL 'HAVING' é utilizada para:",
+    "alternativas": [
+      "a) Filtrar linhas antes do agrupamento",
+      "b) Filtrar grupos após o agrupamento",
+      "c) Ordenar os resultados da consulta",
+      "d) Limitar o número de registros retornados",
+      "e) Juntar tabelas relacionadas"
+    ],
+    "gabarito": "b",
+    "dificuldade": "media",
+    "tags": ["SQL", "GROUP_BY", "HAVING"]
+  },
+  {
+    "id": "Q009",
+    "area": "engenharia_software",
+    "enunciado": "No Scrum, a Sprint Planning tem como objetivo:",
+    "alternativas": [
+      "a) Revisar o trabalho concluído na sprint",
+      "b) Planejar o trabalho a ser realizado na próxima sprint",
+      "c) Remover impedimentos do time",
+      "d) Sincronizar as atividades diárias da equipe",
+      "e) Avaliar a velocidade do time"
+    ],
+    "gabarito": "b",
+    "dificuldade": "facil",
+    "tags": ["scrum", "agile", "sprint_planning"]
+  },
+  {
+    "id": "Q010",
+    "area": "devops",
+    "enunciado": "Docker Containers diferem de máquinas virtuais porque:",
+    "alternativas": [
+      "a) Necessitam de um sistema operacional completo para cada container",
+      "b) Compartilham o kernel do sistema operacional host",
+      "c) Não podem executar múltiplas aplicações",
+      "d) Requerem mais recursos de hardware",
+      "e) São mais lentos para inicializar"
+    ],
+    "gabarito": "b",
+    "dificuldade": "media",
+    "tags": ["docker", "containers", "virtualizacao"]
+  },
+  {
+    "id": "Q011",
+    "area": "seguranca",
+    "enunciado": "Segundo o OWASP Top 10, Injection é uma vulnerabilidade que ocorre quando:",
+    "alternativas": [
+      "a) O sistema não valida entradas do usuário adequadamente",
+      "b) Senhas são armazenadas sem criptografia",
+      "c) A autenticação de usuários é fraca",
+      "d) Componentes desatualizados são utilizados",
+      "e) Logs de segurança não são monitorados"
+    ],
+    "gabarito": "a",
+    "dificuldade": "facil",
+    "tags": ["OWASP", "injection", "vulnerabilidades"]
+  },
+  {
+    "id": "Q012",
+    "area": "cloud",
+    "enunciado": "No modelo de serviço PaaS (Platform as a Service), o provedor é responsável por:",
+    "alternativas": [
+      "a) Apenas a infraestrutura física",
+      "b) Infraestrutura, sistema operacional e runtime",
+      "c) Toda a pilha incluindo a aplicação",
+      "d) Apenas o armazenamento de dados",
+      "e) Somente a rede e conectividade"
+    ],
+    "gabarito": "b",
+    "dificuldade": "media",
+    "tags": ["cloud", "PaaS", "modelos_servico"]
+  },
+  {
+    "id": "Q013",
+    "area": "programacao",
+    "enunciado": "Em TypeScript, o modificador 'readonly' indica que:",
+    "alternativas": [
+      "a) A propriedade pode ser lida e modificada",
+      "b) A propriedade só pode ser atribuída uma vez, na inicialização",
+      "c) A propriedade é privada",
+      "d) A propriedade é estática",
+      "e) A propriedade é opcional"
+    ],
+    "gabarito": "b",
+    "dificuldade": "media",
+    "tags": ["typescript", "modificadores", "readonly"]
+  },
+  {
+    "id": "Q014",
+    "area": "governanca",
+    "enunciado": "No ITIL v4, o Service Value Chain (Cadeia de Valor de Serviço) inclui as seguintes atividades:",
+    "alternativas": [
+      "a) Plan, Improve, Engage, Design & Transition, Obtain/Build, Deliver & Support",
+      "b) Strategy, Design, Transition, Operation, Continual Improvement",
+      "c) Define, Measure, Analyze, Improve, Control",
+      "d) Initiate, Plan, Execute, Monitor, Close",
+      "e) Assess, Direct, Monitor, Evaluate, Optimize"
+    ],
+    "gabarito": "a",
+    "dificuldade": "dificil",
+    "tags": ["ITIL", "service_value_chain", "governanca"]
+  },
+  {
+    "id": "Q015",
+    "area": "arquitetura",
+    "enunciado": "O padrão Repository tem como objetivo:",
+    "alternativas": [
+      "a) Gerenciar transações de banco de dados",
+      "b) Encapsular a lógica de acesso a dados",
+      "c) Implementar regras de negócio",
+      "d) Controlar o ciclo de vida de objetos",
+      "e) Definir interfaces para APIs"
+    ],
+    "gabarito": "b",
+    "dificuldade": "facil",
+    "tags": ["repository", "design_patterns", "dao"]
+  },
+  {
+    "id": "Q016",
+    "area": "banco_dados",
+    "enunciado": "Em PostgreSQL, a função 'COALESCE' retorna:",
+    "alternativas": [
+      "a) A soma de todos os argumentos não nulos",
+      "b) O primeiro argumento não nulo da lista",
+      "c) A concatenação de todos os argumentos",
+      "d) O maior valor entre os argumentos",
+      "e) O número de argumentos não nulos"
+    ],
+    "gabarito": "b",
+    "dificuldade": "media",
+    "tags": ["postgresql", "funcoes", "coalesce"]
+  },
+  {
+    "id": "Q017",
+    "area": "engenharia_software",
+    "enunciado": "UML 2.5 classifica seus diagramas em duas categorias principais:",
+    "alternativas": [
+      "a) Estáticos e Dinâmicos",
+      "b) Estruturais e Comportamentais",
+      "c) Físicos e Lógicos",
+      "d) Conceituais e de Implementação",
+      "e) De Análise e de Design"
+    ],
+    "gabarito": "b",
+    "dificuldade": "facil",
+    "tags": ["UML", "diagramas", "classificacao"]
+  },
+  {
+    "id": "Q018",
+    "area": "ia",
+    "enunciado": "Em Machine Learning, o conceito de 'overfitting' ocorre quando:",
+    "alternativas": [
+      "a) O modelo não aprende os padrões dos dados de treino",
+      "b) O modelo aprende os dados de treino muito bem mas não generaliza para novos dados",
+      "c) O modelo tem poucos parâmetros",
+      "d) Os dados de treino são insuficientes",
+      "e) A taxa de aprendizado é muito baixa"
+    ],
+    "gabarito": "b",
+    "dificuldade": "media",
+    "tags": ["machine_learning", "overfitting", "conceitos"]
+  },
+  {
+    "id": "Q019",
+    "area": "acessibilidade",
+    "enunciado": "De acordo com a WCAG 2.1, o princípio 'Perceptível' estabelece que:",
+    "alternativas": [
+      "a) Os componentes da interface devem ser operáveis",
+      "b) A informação e a operação da interface devem ser compreensíveis",
+      "c) A informação e os componentes da interface devem ser apresentados de forma perceptível aos usuários",
+      "d) O conteúdo deve ser robusto o suficiente",
+      "e) A navegação deve ser facilitada"
+    ],
+    "gabarito": "c",
+    "dificuldade": "facil",
+    "tags": ["WCAG", "acessibilidade", "principios"]
+  },
+  {
+    "id": "Q020",
+    "area": "devops",
+    "enunciado": "Em CI/CD, a prática de 'Continuous Integration' envolve:",
+    "alternativas": [
+      "a) Deploy automático em produção",
+      "b) Integração frequente de código no repositório principal com testes automatizados",
+      "c) Monitoramento contínuo da aplicação",
+      "d) Rollback automático em caso de falha",
+      "e) Versionamento semântico de releases"
+    ],
+    "gabarito": "b",
+    "dificuldade": "facil",
+    "tags": ["CI_CD", "continuous_integration", "devops"]
+  }
+]
