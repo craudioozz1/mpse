@@ -104,6 +104,27 @@ O conteúdo programático específico está disponível no edital oficial, mas g
 ### Conhecimentos Específicos
 Variam de acordo com cada cargo/especialidade e devem ser consultados no edital completo.
 
+### 📋 Conteúdo Detalhado por Cargo
+
+#### Analista do Ministério Público - Tecnologia da Informação: Desenvolvimento
+
+Para o cargo de **Analista TI - Desenvolvimento**, foi criado um documento completo e detalhado com todo o conteúdo programático organizado por áreas de conhecimento:
+
+**📄 [CONTEÚDO PROGRAMÁTICO COMPLETO - ANALISTA TI DESENVOLVIMENTO](./CONTEUDO_PROGRAMATICO_ANALISTA_TI_DESENVOLVIMENTO.md)**
+
+**Principais áreas cobertas:**
+- Engenharia de Software e Metodologias (CMMI, Scrum, Kanban, UML, BPMN)
+- Programação (C#, JavaScript, TypeScript, POO)
+- Arquitetura de Software (Microsserviços, Clean Architecture, SOLID, Padrões GoF)
+- DevOps e CI/CD (Git, Docker, GitLab, GitHub Actions)
+- Segurança da Informação e LGPD
+- Banco de Dados (PostgreSQL, SQL Server, SQL)
+- Computação em Nuvem (AWS, Azure, GCP)
+- Inteligência Artificial e Machine Learning
+- Governança de TI (ITIL v4, COBIT 2019, PMBOK 7)
+- Acessibilidade Digital (WCAG 2.1, e-MAG)
+- Inglês Técnico
+
 ---
 
 ## 🔗 Links Importantes
